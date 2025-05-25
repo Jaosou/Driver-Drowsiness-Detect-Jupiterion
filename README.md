@@ -21,3 +21,5 @@ CNNNewModel1 Error : 11 (CnnNewModel1)
 #         Dropout(0.5),
 #         Dense(num_classes, activation='softmax')
 # ])
+
+#Model : https://drive.google.com/drive/folders/1jNi-uwkHv1QH-GDynp7yvVgr3e7dpt7G?usp=sharing

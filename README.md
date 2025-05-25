@@ -23,3 +23,10 @@ CNNNewModel1 Error : 11 (CnnNewModel1)
 # ])
 
 #Model : https://drive.google.com/drive/folders/1jNi-uwkHv1QH-GDynp7yvVgr3e7dpt7G?usp=sharing
+
+##Lib
+2.19.0 tf
+2.6.1 
+4.11.0 cv2
+0.10.21 mp
+1.26.4 np
